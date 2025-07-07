@@ -1,4 +1,5 @@
 💡 Hands-On Embedded Systems Journey with VEGA Aries (RISC-V)
+
 In a world of Arduinos, Raspberry Pis, and STM32s, getting hands-on with the indigenously built 🇮🇳 VEGA Aries v3.0 RISC-V board felt like a refreshing detour — one filled with bugs, beeps, and “why isn’t it working?!” moments (that eventually turned into “Look, it’s working!!” 🎉).
 
 This repository contains the embedded projects we built during the
