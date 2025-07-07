@@ -4,11 +4,13 @@ In a world of Arduinos, Raspberry Pis, and STM32s, getting hands-on with the ind
 
 This repository contains the embedded projects we built during the
 🛠️ Hands-On Workshop on VEGA Processors and Ecosystem
+
 📍 VIT Chennai | 📅 Feb 22 – Apr 14, 2025
 
 We explored real-time embedded systems from the ground up — working with GPIOs, sensors, displays, feedback modules, and logic building blocks — all without relying on plug-and-play libraries. Every line of code mattered. Every connection taught us something new.
 
 🔧 Projects We Built
+
 1️⃣ F1 Lights Out Reaction Tester – Reflex Challenge
 A reaction-time game inspired by Formula 1 — with touch sensors, LEDs, and buzzer feedback.
 
